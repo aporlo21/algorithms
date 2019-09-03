@@ -126,7 +126,7 @@ $ git config --global user.email {사용자이메일}
      $ git commit --amend
      ```
 
-     * commit에 빠뜨린 파일이 있따면 추가한 이후에 메시지 수정을 하면 포함하여 이력이 확정된다.
+     * commit에 빠뜨린 파일이 있다면 추가한 이후에 메시지 수정을 하면 포함하여 이력이 확정된다.
 
 3. `working directory` 변경사항 버리기
 
